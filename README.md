@@ -2,9 +2,9 @@
 
 ## Links to Github Repos
 
-[Backend(RESTful API)](https://github.com/jpbaz28/Project1_Back_End)
-[Frontend(Web/React)](https://github.com/jpbaz28/Project1_Front_End)
-[Frontend(Mobile/ReactNative)](https://github.com/jpbaz28/Project1_Back_End)
+- [Backend(RESTful API)](https://github.com/jpbaz28/Project1_Back_End)
+- [Frontend(Web/React)](https://github.com/jpbaz28/Project1_Front_End)
+- [Frontend(Mobile/ReactNative)](https://github.com/jpbaz28/Project1_Back_End)
 
 ## Project Description
 
